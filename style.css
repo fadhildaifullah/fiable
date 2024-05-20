@@ -141,6 +141,10 @@
   color: black;
 }
 
+#timkami .tim button {
+ margin-top: -8px;
+}
+
 #testimoni {
   background-image: url(img/Rectangle\ 1101.png);
   margin-top: 20px;
