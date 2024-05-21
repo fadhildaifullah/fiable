@@ -3,7 +3,8 @@
   background-image: url(img/chris-brignola-X2CxUXFqKcM-unsplash\ 1.png);
   background-position: right;
   background-repeat: no-repeat;
-  margin-top: -260px;
+  margin-top: -400px;
+
 
   @font-face {
     font-family: fontbutler;
@@ -14,15 +15,17 @@
   }
 }
 
+
 #jumbotron .tim {
-  margin-top: 250px;
+  margin-top: -300px;
 }
 
-#jumbotron .awalan {
-  margin-top: 350px;
+.awalan {
+  margin-top: 450px;
 }
+
 #jumbotron .tombol .btn {
-  margin-top: 50px;
+  margin-top: 40px;
 }
 
 
@@ -140,6 +143,9 @@
 #timkami .col {
   color: black;
 }
+#timkami .tim button {
+ margin-top: -8px;
+}
 
 #testimoni {
   background-image: url(img/Rectangle\ 1101.png);
@@ -180,6 +186,16 @@
     font-family: fontbutler;
   }
 }
+
+#artikel .ket {
+  margin-top: 70px;
+}
+
+#artikel .tombol {
+  margin-top: 70px;
+  margin-left: 160px;
+}
+
 
 #galeri {
   margin-top: 70px;
@@ -244,6 +260,21 @@
 }
 .jumbotronartikel .berita h1{
  color: #033F89;
+}
+
+#litigasi .ket {
+  margin-top: 15px;
+  color:#174489;
+}
+
+#corporat .ket {
+  margin-top: 15px;
+  color:#174489;
+}
+
+#bisnis .ket {
+  margin-top: 15px;
+  color:#174489;
 }
 
 
